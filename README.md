@@ -1,3 +1,7 @@
+# LeetCode
+
+This repo contains my **accepted solutions** on LeetCode.
+
 ## 目录
 
 | #   | Title                                                                            | Tag   | Difficulty |
