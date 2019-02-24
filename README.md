@@ -16,6 +16,10 @@ This repo contains my **accepted solutions** on LeetCode.
 | 867 | [Transpose Matrix](./867.transpose-matrix.cpp)                                   | Array | Easy       |
 | 766 | [Toeplitz Matrix](./766.toeplitz-matrix.cpp)                                     | Array | Easy       |
 | 566 | [Reshape the Matrix](./566.reshape-the-matrix.cpp)                               | Array | Easy       |
+| 976 | [Largest Perimeter Triangle](./976.largest-perimeter-triangle.cpp)               | Array | Easy       |
+| 888 | [Fair Candy Swap](./888.fair-candy-swap.cpp)                                     | Array | Easy       |
+| 485 | [Max Cobsecutive Ones](./485.max-consecutive-ones.cpp)                           | Array | Easy       |
+| 896 | [Monotonic Array](./896.monotonic-array.cpp)                                     | Array | Easy       |
 | 326 | [Power of Three]                                                                 | Math  | Easy       |
 | 633 | [Sum of Square Numbers]                                                          | Math  | Easy       |
 | 009 | [Palindrome Number]                                                              | Math  | Easy       |
