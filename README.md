@@ -20,6 +20,7 @@ This repo contains my **accepted solutions** on LeetCode.
 | 888 | [Fair Candy Swap](./888.fair-candy-swap.cpp)                                     | Array | Easy       |
 | 485 | [Max Cobsecutive Ones](./485.max-consecutive-ones.cpp)                           | Array | Easy       |
 | 896 | [Monotonic Array](./896.monotonic-array.cpp)                                     | Array | Easy       |
+| 283 | [Move Zeros](./283.move-zeroes.cpp)                                              | Array | Easy       |
 | 326 | [Power of Three]                                                                 | Math  | Easy       |
 | 633 | [Sum of Square Numbers]                                                          | Math  | Easy       |
 | 009 | [Palindrome Number]                                                              | Math  | Easy       |
